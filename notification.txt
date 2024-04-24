@@ -1,6 +1,6 @@
 Testing Git Hub notification using Git Action 
 
-testing updates to send notification
+test notification for sending git hub notification
 
 
 
