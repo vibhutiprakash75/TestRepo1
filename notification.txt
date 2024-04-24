@@ -1,11 +1,9 @@
 Testing Git Hub notification using Git Action 
 
 
-updated test file to test notification
+updating the test notification
 
-file updated 
 
-second update
 
 
 
